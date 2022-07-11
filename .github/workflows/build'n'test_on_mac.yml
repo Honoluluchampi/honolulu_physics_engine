@@ -1,4 +1,4 @@
-name: CMake
+name: build'n'test_on_mac
 
 on:
   push:
